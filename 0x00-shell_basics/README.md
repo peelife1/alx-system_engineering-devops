@@ -1,1 +1,1 @@
-Alx System Engineering Devops repo
+script that prints the absolute path name of the current working directory
